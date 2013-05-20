@@ -4,8 +4,10 @@ WordFinder
 a data structure that specializes in rapidly finding valid anagrams of strings
 
 Usage
-=====
-make </br>
+-----
+make  
+wordfinder OSPD4.txt  
 
-wordfinder OSPD4.txt </br>
+Give it a few seconds to load the input file containing over 176,000 english words. Then you can enter a string of
+letters from which to find words. Never lose at Scrabble again!
 
